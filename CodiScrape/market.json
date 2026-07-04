@@ -1,0 +1,12 @@
+{
+    "codidoc": {
+        "name": "CodiScrape",
+        "description": "This skill allows Coditan to scrape websites to fully read their info.",
+        "creator": "Coditan Official",
+        "version": "1.0.0",
+        "icon": "https://raw.githubusercontent.com/EithanAsulin/Coditan/refs/heads/master/CodiScrape/icon.png",
+        "json": "https://raw.githubusercontent.com/EithanAsulin/Coditan/refs/heads/master/CodiScrape/custom_action.json",
+        "script": "https://raw.githubusercontent.com/EithanAsulin/Coditan/refs/heads/master/CodiScrape/skill.py",
+        "instructions": "https://raw.githubusercontent.com/EithanAsulin/Coditan/refs/heads/master/CodiScrape/skill.md"
+    }
+}

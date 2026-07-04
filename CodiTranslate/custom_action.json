@@ -1,0 +1,14 @@
+{
+  "coditranslate": {
+    "name": "CodiTranslate",
+    "description": "This skill allows Coditan to translate text between different languages with support for over 100 languages using google translate.",
+    "creator": "Coditan Official",
+    "version": "1.0.0",
+    "icon": "https://raw.githubusercontent.com/EithanAsulin/Coditan/refs/heads/master/CodiTranslate/icon.png",
+    "function": "coditranslate",
+    "path": "CodiTranslate",
+    "trigger": "coditranslate",
+    "action": "actions/custom/CodiTranslate/skill.py",
+    "instructions": "actions/custom/CodiTranslate/skill.md"
+  }
+}

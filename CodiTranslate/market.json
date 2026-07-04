@@ -1,0 +1,15 @@
+{
+    "codidoc": {
+        "name": "CodiTranslate",
+        "description": "This skill allows Coditan to translate text between different languages with support for over 100 languages using google translate.",
+        "creator": "Coditan Official",
+        "version": "1.0.0",
+        "icon": "https://raw.githubusercontent.com/EithanAsulin/Coditan/refs/heads/master/CodiTranslate/icon.png",
+        "json": "https://raw.githubusercontent.com/EithanAsulin/Coditan/refs/heads/master/CodiTranslate/custom_action.json",
+        "script": "https://raw.githubusercontent.com/EithanAsulin/Coditan/refs/heads/master/CodiTranslate/skill.py",
+        "instructions": "https://raw.githubusercontent.com/EithanAsulin/Coditan/refs/heads/master/CodiTranslate/skill.md",
+        "requirements": [
+            "deep-translator"
+        ]
+    }
+}

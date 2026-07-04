@@ -1,0 +1,15 @@
+{
+    "codidoc": {
+        "name": "CodiDoc",
+        "description": "This skill allows Coditan to understand documents like PDF Files, DOCX Documents, Powerpoint PPTX and Exce; .xls/.xlsx and many more.",
+        "creator": "Coditan Official",
+        "version": "1.0.0",
+        "icon": "https://raw.githubusercontent.com/EithanAsulin/Coditan/refs/heads/master/CodiDoc/icon.png",
+        "json": "https://raw.githubusercontent.com/EithanAsulin/Coditan/refs/heads/master/CodiDoc/custom_actions.json",
+        "script": "https://raw.githubusercontent.com/EithanAsulin/Coditan/refs/heads/master/CodiDoc/doc.py",
+        "instructions": "https://raw.githubusercontent.com/EithanAsulin/Coditan/refs/heads/master/CodiDoc/skill.md",
+        "requirements": [
+            "MarkItDown"
+        ]
+    }
+}

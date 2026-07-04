@@ -1,0 +1,12 @@
+{
+    "codidoc": {
+        "name": "CodiPilot",
+        "description": "This skill allows Coditan to analyze code, understand remote repositories or codebases, and provide low-level insight into code.",
+        "creator": "Coditan Official",
+        "version": "1.0.0",
+        "icon": "https://raw.githubusercontent.com/EithanAsulin/Coditan/refs/heads/master/CodiPilot/icon.png",
+        "json": "https://raw.githubusercontent.com/EithanAsulin/Coditan/refs/heads/master/CodiPilot/custom_action.json",
+        "script": "https://raw.githubusercontent.com/EithanAsulin/Coditan/refs/heads/master/CodiPilot/skill.py",
+        "instructions": "https://raw.githubusercontent.com/EithanAsulin/Coditan/refs/heads/master/CodiPilot/skill.md"
+    }
+}
